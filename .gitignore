@@ -1,1 +1,11 @@
 .ipynb_checkpoints/
+.DS_Store
+
+dataset/*.csv
+dataset/*.pkl
+
+dataset-prepared/*.csv
+dataset-prepared/*.pkl
+dataset-prepared/*.txt
+
+model-finetuned/epoch_2/
