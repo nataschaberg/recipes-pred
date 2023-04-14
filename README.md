@@ -14,6 +14,7 @@
   - also contains the notebook used to finetune on colab `training_script.ipynb`
   - additionally a notebook which has examples of inference of base model distilGPT2 and the finetuned version
 - `model-finetuned`: link to fine tuned model
+- `slides`: link to presentation
 - the streamlit app script is saved in root as `app.py`
 
 
