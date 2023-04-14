@@ -27,6 +27,6 @@
 
 ## Dataset Exploration
 - can be found in the EDA section inside `data-anaylsis`
-- can also be explored via Tableau dahsboard uploaded here: https://public.tableau.com/app/profile/natascha2339/viz/recipe_prediction_ver1/recipes_dashboard
+- can also be explored via Tableau dashboard uploaded here: https://public.tableau.com/app/profile/natascha2339/viz/recipe_prediction_ver1/recipes_dashboard
 
 ![alt dashboard](https://raw.githubusercontent.com/nataschaberg/recipes-pred/main/dashboard_recipes_dataset.png)
